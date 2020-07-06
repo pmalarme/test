@@ -8,4 +8,7 @@
 <ArchInfo Date="1594027139508" Description="New version" Name="myNewJob" PackageName="myNewJob.spk" UserID="sastest1@SASCLIENT" Version="9c7464a">
 <ContainObj>SBIP://METASERVER/Data Governance/Jobs/myNewJob(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1594034329772" Description="New version" Name="MyJob" PackageName="MyJob.spk" UserID="sastest1@SASCLIENT" Version="b977932">
+<ContainObj>SBIP://METASERVER/Data Governance/Jobs/MyJob(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
