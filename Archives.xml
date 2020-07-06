@@ -1,1 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><ROOT></ROOT>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1594026506897" Description="Test" Name="MyJob" PackageName="MyJob.spk" UserID="sastest1@SASCLIENT" Version="fa2690a">
+<ContainObj>SBIP://METASERVER/Data Governance/Jobs/MyJob(Job)</ContainObj>
+</ArchInfo>
+</ROOT>
